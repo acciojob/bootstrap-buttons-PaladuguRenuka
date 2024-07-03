@@ -1,2 +1,74 @@
-
 /* Your CSS Code here. */
+#button-1{
+	color: white;
+	background-color: blue;
+	width: 80px;
+	border: none;
+	padding: 8px;
+	margin: 0px;
+	border-radius: 4px;
+}
+#button-2{
+	color: black;
+	background-color: white;
+	width: 80px;
+	border: 1px solid black;
+	padding: 5px;
+	margin: 0px;
+	border-radius: 4px;
+}
+#button-3{
+	color: white;
+	background-color: green;
+	width: 80px;
+	border: none;
+	padding: 10px;
+	margin: 0px;
+	border-radius: 4px;
+}
+#button-4{
+	color: white;
+	background-color: red;
+	width: 60px;
+	border: none;
+	padding: 5px;
+	margin: 0px;
+	border-radius: 4px;
+}
+#button-5{
+	color: black;
+	background-color: orange;
+	width: 100%;
+	border: none;
+	padding: 5px;
+	margin: 0px;
+	border-radius: 4px;
+}
+#button-6{
+	color: black;
+	background-color: aqua;
+	width: 80px;
+	border: none;
+	padding: 8px;
+	margin: 0px;
+	border-radius: 4px;
+}
+#button-7{
+	color: black;
+	background-color: lightgray;
+	width: 80px;
+	border: none;
+	padding: 5px;
+	margin: 0px;
+	border-radius: 4px;
+}
+#button-8{
+	background-color: white;
+	text-decoration: underline;
+	color: lightblue;
+	width: 80px;
+	border: none;
+	padding: 5px;
+	margin: 0px;
+	border-radius: 4px;
+}
